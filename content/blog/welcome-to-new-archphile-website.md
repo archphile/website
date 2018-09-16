@@ -1,5 +1,5 @@
 ---
-title: "Welcome to new Archphile website"
+title: "Welcome to the new Archphile website"
 date: 2018-09-16T13:01:24+03:00
 tags: ["hugo", "website"]
 ---
