@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Archphile</title>
+    <link>https://archphile.org/about/</link>
+    <description>Recent content in About on Archphile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyleft 2014-2018 - Mike Andonov</copyright>
+    <lastBuildDate>Sun, 16 Sep 2018 12:55:47 +0300</lastBuildDate>
+    
+	<atom:link href="https://archphile.org/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
