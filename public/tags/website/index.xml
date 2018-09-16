@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Archphile</title>
-    <link>https://archphile.org/blog/</link>
-    <description>Recent content in Blog on Archphile</description>
+    <title>Website on Archphile</title>
+    <link>https://archphile.org/tags/website/</link>
+    <description>Recent content in Website on Archphile</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyleft 2014-2018 - Mike Andonov</copyright>
-    <lastBuildDate>Sun, 16 Sep 2018 12:45:01 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 16 Sep 2018 13:01:24 +0300</lastBuildDate>
     
-	<atom:link href="https://archphile.org/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://archphile.org/tags/website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Welcome to new Archphile website</title>
+      <title>Welcome to the new Archphile website</title>
       <link>https://archphile.org/blog/welcome-to-new-archphile-website/</link>
       <pubDate>Sun, 16 Sep 2018 13:01:24 +0300</pubDate>
       

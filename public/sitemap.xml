@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://archphile.org/blog/welcome-to-new-archphile-website/</loc>
+    <lastmod>2018-09-16T13:01:24+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archphile.org/manual/</loc>
+    <lastmod>2018-09-16T12:59:40+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archphile.org/download/</loc>
+    <lastmod>2018-09-16T12:59:35+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archphile.org/about/</loc>
+    <lastmod>2018-09-16T12:55:47+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archphile.org/blog/</loc>
+    <lastmod>2018-09-16T12:45:01+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archphile.org/</loc>
+    <lastmod>2018-09-16T13:01:24+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://archphile.org/tags/hugo/</loc>
+    <lastmod>2018-09-16T13:01:24+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://archphile.org/tags/</loc>
+    <lastmod>2018-09-16T13:01:24+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://archphile.org/tags/website/</loc>
+    <lastmod>2018-09-16T13:01:24+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
