@@ -14,3 +14,29 @@ Archphile currently supports all **ARM7 Raspberry Pis** and the **Odroid C2**. T
 
 
 [Latest image for the Odroid C2](https://sourceforge.net/projects/archphile/files/odroidc2/0.99.73-alpha/archphile-0.99.73-alpha-odroidc2.7z/download)
+&nbsp;
+&nbsp;
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+
+    <!-- Identify your business so that you can collect the payments. -->
+    <input type="hidden" name="business"
+        value="info@archphile.org">
+
+    <!-- Specify a Donate button. -->
+    <input type="hidden" name="cmd" value="_donations">
+
+    <!-- Specify details about the contribution -->
+    <input type="hidden" name="item_name" value="Archphile">
+    <input type="hidden" name="item_number" value="Archphile project support">
+    <input type="hidden" name="currency_code" value="EUR">
+
+    <!-- Display the payment button. -->
+    <input type="image" name="submit"
+    src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"
+    alt="Donate">
+    <img alt="" width="1" height="1"
+    src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
+
+</form>
+

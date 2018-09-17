@@ -9,6 +9,8 @@ pluralizeListTitles = true
 # Minimum number of posts before paginate navigation show up
 paginate = 10
 
+googleAnalytics = "UA-49553191-1"
+
 # Your disqus shortname
 #disqusShortname = ""
 

@@ -19,3 +19,29 @@ This document is just an .odt converted to PDF. You can find the editable file h
 https://github.com/archphile/manual
 
 **Note:** Experienced Linux users will immediately notice the same systemd commands (plus some nano editing) to be repeated again and again. Please note that this document was created for people that don’t have any idea about Linux and may need to copy/paste commands in order to make their board functional.
+
+&nbsp;
+&nbsp;
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+
+    <!-- Identify your business so that you can collect the payments. -->
+    <input type="hidden" name="business"
+        value="info@archphile.org">
+
+    <!-- Specify a Donate button. -->
+    <input type="hidden" name="cmd" value="_donations">
+
+    <!-- Specify details about the contribution -->
+    <input type="hidden" name="item_name" value="Archphile">
+    <input type="hidden" name="item_number" value="Archphile project support">
+    <input type="hidden" name="currency_code" value="EUR">
+
+    <!-- Display the payment button. -->
+    <input type="image" name="submit"
+    src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"
+    alt="Donate">
+    <img alt="" width="1" height="1"
+    src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
+
+</form>
