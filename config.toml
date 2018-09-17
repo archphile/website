@@ -4,7 +4,7 @@ theme = "manis"
 
 # Copyright notice. Note: You can use HTML tag here
 copyright = "Copyleft 2014-2018 - Mike Andonov"
-pluralizeListTitles = false
+pluralizeListTitles = true
 
 # Minimum number of posts before paginate navigation show up
 paginate = 10
@@ -29,7 +29,7 @@ pygmentsUseClasses = true
 	customCSS = []
 	
 	# List of sections support disqus comments
-    # disqusSections = [ "blog" ]
+        # disqusSections = [ "blog" ]
 	# Site meta description
 	description = "Archphile - yet another audio distribution for embedded boards"
 	# Site's Tagline (Subtitle or Keyword)
@@ -56,7 +56,7 @@ pygmentsUseClasses = true
 	dateFmt = "Jan 02, 2006"
 
 	# Code Highlighting (HighlightJS)
-	highlightJs = false
+	highlightJs = true
 	highlightJsLanguages = [ "go" ]
 	highlightJsStyle = "ocean"
 
