@@ -2,6 +2,7 @@
 title: "Download"
 date: 2018-09-16T12:59:35+03:00
 menu: "main"
+weight: 3
 ---
 
 Archphile currently supports all **ARM7 Raspberry Pis** and the **Odroid C2**. The latest version is **0.99.73 alpha**.

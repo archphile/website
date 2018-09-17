@@ -3,8 +3,8 @@ title = "Archphile"
 theme = "manis"
 
 # Copyright notice. Note: You can use HTML tag here
-copyright = "Copyleft 2014-2018 - Mike Andonov"
-pluralizeListTitles = true
+copyright = "Copyleft 2014 - 2018 | Mike Andonov"
+pluralizeListTitles = true 
 
 # Minimum number of posts before paginate navigation show up
 paginate = 10
