@@ -11,7 +11,7 @@ Since the beginning of this project, I tried to provide as much as information I
 
 That was not enough and this is why since May 2018 I introduced the Archphile manual:
 
-[Archphile manual v 0.12.7](https://archphile.org/manual/archphile-manual.pdf) 
+[Archphile manual v 0.12.8](https://archphile.org/manual/archphile-manual.pdf) 
 
 This document is still under development, but it includes most of the crucial information for setting up almost everything on Archphile.
 
