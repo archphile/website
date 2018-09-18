@@ -53,7 +53,7 @@ pygmentsUseClasses = true
 	# Maximum number of item in Latest Posts or Works
 	latestCount = 3
 	# Path to site's favicon image
-	faviconImg = "/static/img/favicon.ico"
+	faviconImg = "/img/favicon.ico"
 	# Date format in item list
 	dateFmt = "Jan 02, 2006"
 
@@ -64,7 +64,7 @@ pygmentsUseClasses = true
 
 	# Social Links
 	email = "info@archphile.org"
-	github = "https://github.com/archphile/"
+	github = "https://github.com/archphile"
 
 
 # Language Configuration
