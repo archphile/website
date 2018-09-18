@@ -1,0 +1,54 @@
+Archphile Odroid C2 Changelog
+
+
+26/05/2018 - 0.99.73 alpha
+-------------------------------
+- updated to latest ArchlinuxARM
+- updated to latest mainline aarch64 kernel 4.16.11
+- updated to MPD 0.20.20
+- updated to latest YMPD (superbfg9 repo)
+- updated to latest librespot (fixes connections issues)
+- rebuilt upmpdcli package in order to fuly support tidal
+- updated latest roonbridge package (not installed by default)
+- added squeezelite support (for testing purposes - to be covered by the manual at a later stage)
+
+
+12/04/2018 - 0.99.72 alpha
+-------------------------------
+- updated to mainline kernel 4.16.1
+- updated to latest YMPD (notandy repository)
+- updated to upmpdcli 1.2.16
+
+
+07/03/2018 - 0.99.71 alpha
+-------------------------------
+- updated to latest ArchlinuxARM
+- updated to mainline kernel 4.15.7
+- applied various of changes and fixes in system in order to support mainline kernel
+- updated to new MPD 0.20.18 and latest git MPD sacd version
+- updated Archphile packages to latest versions (ffmpeg, libupnpp, librespot etc..)
+
+
+24/12/2017 - 0.99.7 alpha
+-------------------------------
+- updated to latest ArchlinuxARM
+- updated to mainline kernel 4.14.8
+- applied various changes in system in order to support it
+- updated to MPD 0.20.13 and latest git MPD sacd version 
+- removed mpd-archphile-native-dsd
+- updated Archphile packages to latest versions (ffmpeg, libupnpp, librespot etc..)
+
+
+11/09/2017 - 0.99.6 beta
+-------------------------------
+- updated to latest ArchlinuxARM
+- updated to MPD 0.20.10 (apart from the native dsd package that remains in MPD 0.19.19)
+- updated to latest upmpdcli
+- added spotify premium support using Librespot
+- added roon bridge support
+- applied various Optimizations
+
+
+22/03/2016 - 0.99.5 alpha
+-------------------------------
+- initial release

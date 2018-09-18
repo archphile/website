@@ -19,9 +19,13 @@ If you want to get and editable (.odt) version of this manual, you can visit the
 
 [Archphile manual Github repository](https://github.com/archphile/manual) 
 
-**Note:** Experienced Linux users will immediately notice the same systemd commands (plus some nano editing) to be repeated again and again. Please note that this document was created for people that don’t have any idea about Linux and may need to copy/paste commands in order to make their board functional.
-
 &nbsp;
+**Notes:**
+
+- Archphile manual is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+-  Experienced Linux users will immediately notice the same systemd commands (plus some nano editing) to be repeated again and again. Please note that this document was created for people that don’t have any idea about Linux and may need to copy/paste commands in order to make their board functional.
+
 &nbsp;
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
