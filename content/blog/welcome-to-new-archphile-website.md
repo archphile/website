@@ -1,8 +1,8 @@
----
-title: "Welcome to the new Archphile website"
-date: 2018-09-16T13:01:24+03:00
-tags: ["hugo", "website"]
----
++++
+title= "Welcome to the new Archphile website"
+date = 2018-09-16
+tags =  ["hugo", "website"]
++++
 
 Archphile  website was moved to a new, much simpler and easier to maintain platform, named [hugo](https://gohugo.io/), using [manis theme](https://github.com/yursan9/manis-hugo-theme).
 

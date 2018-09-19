@@ -1,8 +1,8 @@
----
-title: "About"
-menu: "main"
-weight: 1
----
++++
+title = "About"
+menu = "main"
+weight = "1"
++++
 
 Archphile is an [ArchlinuxARM](https://archlinuxarm.org/) based distribution for the [Raspberry Pi](https://www.raspberrypi.org/) and the [Odroid C2](https://www.hardkernel.com/main/products/prdt_info.php?g_code=G145457216438).
 
@@ -23,12 +23,12 @@ Below you will find some screenshots showing the MPD clients currently included 
 
 - **ympd**
 
-![mympd](https://archphile.org/about/ympd.jpg  "ympd screenshot")
+![ympd](/img/ympd.jpg  "YMPD screenshot")
 
 
 - **mympd** (coming very soon..)
 
-![mympd](https://archphile.org/about/mympd.gif  "Mympd screenshots")
+![mympd](/img/mympd.gif  "Mympd screenshots")
 
 **Note:** Archphile was initially based on ideas and configuration from **Raspyfi/Volumio** and **Runeaudio** projects. I could not have done it without them.
 

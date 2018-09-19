@@ -1,10 +1,8 @@
----
-title: "Manual"
-date: 2018-09-16T12:59:40+03:00
-menu: "main"
-weight: 4
----
-
++++
+title = "Manual"
+menu =  "main"
+weight = "4"
++++
 Archphile, not having a gui for its configuration, is always a pain in the ass for users that don’t have any idea about Linux.
 
 Since the beginning of this project, I tried to provide as much as information I could, mainly via the old website's Tips & Tricks section.
@@ -13,7 +11,7 @@ That was not enough and this is why since May 2018 I introduced the Archphile ma
 
 [Archphile manual v 0.12.8](https://archphile.org/manual/archphile-manual.pdf) 
 
-This document is still under development, but it includes most of the crucial information for setting up almost everything on Archphile.
+This document is still under development, but it currently includes almost everything you need in order to configure and use Archphile.
 
 If you want to get and editable (.odt) version of this manual, you can visit the following link:
 
