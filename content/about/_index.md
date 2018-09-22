@@ -34,10 +34,11 @@ Below you will find some screenshots showing the MPD clients currently included 
 
 **Credits:**
 
-- http://archlinuxarm.org
-- http://www.musicpd.org
-- http://www.ympd.org
-- http://volumio.org
+- https://archlinuxarm.org
+- https://www.musicpd.org
+- https://www.ympd.org
+- https://github.com/jcorporation/myMPD
+- https://volumio.org
 - http://www.runeaudio.com
 - http://www.raspyfi.com
 - http://moodeaudio.org
