@@ -42,3 +42,8 @@ Below you will find some screenshots showing the MPD clients currently included 
 - http://www.runeaudio.com
 - http://www.raspyfi.com
 - http://moodeaudio.org
+
+This website was created using the following software:
+
+- [hugo framework](https://gohugo.io/)
+- [manis hugo theme](https://github.com/yursan9/manis-hugo-theme) 
