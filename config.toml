@@ -33,9 +33,9 @@ pygmentsUseClasses = true
 	# List of sections support disqus comments
         # disqusSections = [ "blog" ]
 	# Site meta description
-	description = "Archphile - yet another audio distribution for embedded boards"
+	description = "Archphile - yet another linux audio distribution for embedded boards"
 	# Site's Tagline (Subtitle or Keyword)
-	tagline = "yet another audio distribution for embedded boards"
+	tagline = "yet another linux audio distribution for embedded boards"
 	# If true give attribution to this theme
 	themeAttrib = false
 	# URL to license file, can be outside of your domain
