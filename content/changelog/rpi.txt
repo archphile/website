@@ -1,6 +1,5 @@
 Archphile Raspberry Pi Changelog
 
-
 26/05/2018 - 0.99.73 alpha
 -------------------------------
 - updated to latest ArchlinuxARM
