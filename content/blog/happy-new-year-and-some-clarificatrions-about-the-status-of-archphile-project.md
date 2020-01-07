@@ -48,15 +48,15 @@ Please note that there is no **Playground repository** anymore. All the packages
 
 **- Future development**
 
-As I am writing these words, I still use Odroid C2 on my Hifi and I am actively developing images for my device. However, I am planning to buy a RPI4 and if it proves to be OK according to my needs, it will replace the C2.
+As I am writing these words, I still use the Odroid C2 on my Hifi and I am actively developing images for that. However, I am planning to buy a RPI4 and if it proves to be OK for my needs, it will replace the C2.
 
 When I do this, I might upload my own image (which will be different when compared to what Archphile used to be) so that other users can play around with it.
 
-This does not mean that Archphile will be an active project again. Archphile:
+This does not mean that Archphile will be an active again. This project:
 
 - used to support more than one devices (and that was my biggest mistake!)
 - included a lot of packages I never used (shairport, roon-bridge, mpd-archphile-sacd etc..)
-- had a manual
+- had an up-to-date manual
 - offered user support
 
 If I ever provide an image again, it won't include any of the above.
