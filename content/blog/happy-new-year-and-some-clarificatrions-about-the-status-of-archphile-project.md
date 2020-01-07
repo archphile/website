@@ -23,7 +23,7 @@ I haven't tested any distro for years now, but below you will find some suggesti
 - [GentooPlayer](http://gentooplayer.com)
 - [PicorePlayer](https://www.picoreplayer.org) (only for Squeezelite users)
 
-All of them were built with the [K.I.S.S.](https://en.wikipedia.org/wiki/KISS_principle) in mind, so if you liked Archphile, you might like one of them too.
+All of them were built with the [K.I.S.S.](https://en.wikipedia.org/wiki/KISS_principle) principle in mind, so if you liked Archphile, you might like one of them too.
 
 **- Don't use the Archphile creation scripts in order to make  a fresh image**
 
