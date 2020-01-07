@@ -38,10 +38,13 @@ The packages at my repos are either completely outdated (arm7)  or built with de
 If you have some experience with Linux, and especially Archlinux, you might want to visit my [Github page](https://github.com/archphile):
 
 
-- [the packages repository](https://github.com/archphile/packages)
-- [the recipe repository](https://github.com/archphile/recipe)
+- [Archphile Packages repository](https://github.com/archphile/packages)
+- [Archpile Recipe repository](https://github.com/archphile/recipe)
+
 
 I keep making images for personal use (tested only in aarch64 at the moment), so the packages section and the creation script for Odroid C2 are up-to-date.
+
+Please note that there is no **Playground repository** anymore. All the packages are now on the same repo.
 
 **- Future development**
 
