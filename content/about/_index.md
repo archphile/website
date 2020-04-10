@@ -20,7 +20,7 @@ Archphile is an [ArchlinuxARM](https://archlinuxarm.org/) based distribution for
 - various webradios included by default (heavily based on  [moodeaudio](http://moodeaudio.org/) webradios)
 
 
-Below you will find some screenshots showing the latest MPD client used on Archphile, myMPD:
+Below you will find screenshots of the latest MPD client used on Archphile, named [myMPD](https://jcorporation.github.io/myMPD/):
 
 ![mympd](/img/mympd.gif  "Mympd screenshots")
 
