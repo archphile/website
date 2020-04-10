@@ -26,7 +26,7 @@ The latest version is **1.19 beta** - codename Corona (10/04/2020).
 
 ## Odroid C2
 
-- [latest image for the Odroid C2](https://sourceforge.net/projects/archphile/files/odroidc2/0.99.73-alpha/archphile-0.99.73-alpha-odroidc2.7z/download) 
+- [latest image for the Odroid C2](https://sourceforge.net/projects/archphile/files/odroidc2/1.19-beta-corona/archphile-1.19-beta-corona-odroidc2.7z/download) 
 
 - [changelog](https://archphile.org/changelog/odroidc2.txt)
 
