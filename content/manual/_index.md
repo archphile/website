@@ -17,6 +17,9 @@ If you want to get and editable (.odt) version of this manual, you can visit the
 
 [Archphile manual Github repository](https://github.com/archphile/manual) 
 
+If you can't find what you want on this manual, or you found an issue/bug, you can [open a ticket on github](https://github.com/archphile/support/issues).
+
+
 &nbsp;
 **Notes:**
 

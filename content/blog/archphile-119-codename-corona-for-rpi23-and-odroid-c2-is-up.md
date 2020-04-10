@@ -1,5 +1,5 @@
 +++
-title= "Archphile 1.19 beta - codename Corona for RPI2/3 and Odroid C2 is up)"
+title= "Archphile 1.19 beta - codename Corona for RPI2/3 and Odroid C2 is up"
 date = 2020-04-10
 tags =  ["archphile"]
 +++
