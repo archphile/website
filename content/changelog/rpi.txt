@@ -1,5 +1,21 @@
 Archphile Raspberry Pi Changelog
 
+10/04/2020 - 1.19 beta - codename Corona
+------------------------------------------
+- updated to latest ArchlinuxARM
+- updated to custom kernel 4.19.113
+- updated to MPD 0.21.22
+- updated to latest MPD fork with SACD support (untested)
+- replaced YMPD with myMPD 6.2.3
+- updated to latest available librespot (spotify) from github
+- updated to latest upmpdcli 1.4.7 (tidal/qobuz etc were not tesed)
+- updated to latest roonbridge 1.0.171 (untested)
+- updated to squeezelite 1.9.2.1165 (and custom scripts to enable/disable it)
+- updated to latest webradios pls files taken from moodeaudio project
+- updated/revised various optimizations
+- updated/revised I2S supported DACs in config.txt
+- removed local cover art support
+
 26/05/2018 - 0.99.73 alpha
 -------------------------------
 - updated to latest ArchlinuxARM

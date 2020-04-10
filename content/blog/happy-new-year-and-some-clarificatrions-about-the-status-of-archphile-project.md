@@ -17,7 +17,7 @@ Please do not send me emails or PMs in order to support you. I am sorry but I wo
 
 Archphile images are very outdated and it is highly suggested that you either make your own custom installation (trust me, it's not rocket science) or start using one of the other available distributions.
 
-I haven't tested any distro for years now, but below you will find some suggestions based on the feedback of the audio community:
+I haven't tested any distro for years now, but below you will find some suggestions based on the feedback I get/read from friends and the audio community:
 
 - [Collybia OS](https://collybia.com/collybia-os)
 - [GentooPlayer](http://gentooplayer.com)
@@ -52,7 +52,7 @@ As I am writing these words, I still use the Odroid C2 on my Hifi and I am activ
 
 When I do this, I might upload my own image (which will be different when compared to what Archphile used to be) so that other users can play around with it.
 
-This does not mean that Archphile will be an active again. This project:
+This does not mean that Archphile will be active again. This project:
 
 - used to support more than one devices (and that was my biggest mistake!)
 - included a lot of packages I never used (shairport, roon-bridge, mpd-archphile-sacd etc..)

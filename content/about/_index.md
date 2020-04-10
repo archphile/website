@@ -8,25 +8,19 @@ Archphile is an [ArchlinuxARM](https://archlinuxarm.org/) based distribution for
 
 **Features:**
 
-- [MPD](https://www.musicpd.org/)  (Music Player Daemon)
-- [mympd](https://github.com/jcorporation/myMPD)/[ympd](https://github.com/notandy/ympd)  MPD clients
+- [MPD](https://www.musicpd.org/)(Music Player Daemon)
+- [myMPD](https://jcorporation.github.io/myMPD/) MPD client
 - UPNP/DLNA support using [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/)
 - spotify support using [librespot](https://github.com/librespot-org)
 - tidal support using [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/) 
+- squeezelite support
 - airplay support using [shairport-sync](https://github.com/mikebrady/shairport-sync) 
 - usb disk automounting using [udevil](https://ignorantguru.github.io/udevil/)
 - samba/cifs/nfs support
 - various webradios included by default (heavily based on  [moodeaudio](http://moodeaudio.org/) webradios)
 
 
-Below you will find some screenshots showing the MPD clients currently included in Archphile:
-
-- **ympd**
-
-![ympd](/img/ympd.jpg  "YMPD screenshot")
-
-
-- **mympd** (coming very soon..)
+Below you will find some screenshots showing the latest MPD client used on Archphile, myMPD:
 
 ![mympd](/img/mympd.gif  "Mympd screenshots")
 
@@ -47,3 +41,6 @@ This website was created using the following software:
 
 - [hugo framework](https://gohugo.io/)
 - [manis hugo theme](https://github.com/yursan9/manis-hugo-theme) 
+
+
+If you wish to support Archphile, please consider [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BDJDPBBTJDKZC&source=url)!

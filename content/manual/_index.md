@@ -9,7 +9,7 @@ Since the beginning of this project, I tried to provide as much as information I
 
 That was not enough and this is why since May 2018 I introduced the Archphile manual:
 
-[Archphile manual v 0.12.12](https://archphile.org/manual/archphile-manual.pdf) 
+[Archphile manual v 0.13](https://archphile.org/manual/archphile-manual.pdf) 
 
 This document is still under development, but it currently includes almost everything you need in order to configure and use Archphile.
 
@@ -23,3 +23,6 @@ If you want to get and editable (.odt) version of this manual, you can visit the
 - Archphile manual is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 -  Experienced Linux users will immediately notice the same systemd commands (plus some nano editing) to be repeated again and again. Please note that this document was created for people that don’t have any idea about Linux and may need to copy/paste commands in order to make their board functional.
+
+
+If you wish to support Archphile, please consider [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BDJDPBBTJDKZC&source=url)!
