@@ -8,7 +8,7 @@ Archphile is an [ArchlinuxARM](https://archlinuxarm.org/) based distribution for
 
 **Features:**
 
-- [MPD](https://www.musicpd.org/)(Music Player Daemon)
+- [MPD](https://www.musicpd.org/) (Music Player Daemon)
 - [myMPD](https://jcorporation.github.io/myMPD/) MPD client
 - UPNP/DLNA support using [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/)
 - spotify support using [librespot](https://github.com/librespot-org)
