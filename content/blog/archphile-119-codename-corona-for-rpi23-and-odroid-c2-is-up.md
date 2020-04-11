@@ -40,7 +40,7 @@ Last but not least, you may have already realized that I am famous for my instab
 
 Please do not take myself very seriously and I suggest that you don't take yours either!
 
-I hope that everyone will remain safe and OK.
+I hope that everyone will remain OK and safe.
 
 Greetings,
 
