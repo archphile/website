@@ -36,7 +36,7 @@ As you may have noticed there is still no support for the **Raspberry Pi 4**. If
 
 While I am not sure that I will continue development in general, if you help me buy a RPI 4, I will upload one functional image for sure.
 
-Last but not least, you may have already realized that I am famous for my instability. I have announced two times that Archphile is dead and yet I am back with new images. 
+Last but not least, you may have already realized that I am famous for my instability. I have announced twice that Archphile is dead and yet I am back with new images. 
 
 Please do not take myself very seriously and I suggest that you don't take yours either!
 
