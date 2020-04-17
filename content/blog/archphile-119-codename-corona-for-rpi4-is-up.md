@@ -4,7 +4,7 @@ date = 2020-04-17
 tags =  ["archphile"]
 +++
 
-Thanks to the kind donations of Darius, Vangelis, Angelos and Michael, I was able to buy a Raspberry Pi 4 and prepare an **aarch64**(thanks to [Moonman's](https://github.com/moonman) rootfs and packages) image for that: 
+Thanks to the kind donations of Darius, Vangelis, Angelos and Michael, I was able to buy a Raspberry Pi 4 and prepare an **aarch64** (thanks to [Moonman's](https://github.com/moonman) rootfs and packages) image for that: 
 
 ## Downloads
 
@@ -19,7 +19,7 @@ Thanks to the kind donations of Darius, Vangelis, Angelos and Michael, I was abl
 ## Release updates
 If there are any updates on packages/configuration that can be applied on this image, all the relevant instructions will be given through the following link:
 
-- [updates for the RPI 4](https://archphile.org/changelog/updates-rpi4.txt)
+- [Updates for the RPI 4](https://archphile.org/changelog/updates-rpi4.txt)
 
 
 ## Support
@@ -28,7 +28,7 @@ If there are any updates on packages/configuration that can be applied on this i
 - make sure you 've read the [manual](https://archphile.org/manual/)
 - if the manual is not enough or you found a bug, [submit your issue on github](https://github.com/archphile/support/issues).
  
-Finally, if you wish to support Archphile, please considter [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BDJDPBBTJDKZC&source=url)!
+Finally, if you wish to support Archphile, please consider [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BDJDPBBTJDKZC&source=url)!
 
 Greetings,
 
