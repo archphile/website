@@ -13,13 +13,13 @@ Living under this difficult situation (covid-19 pandemic) and under a very stric
 
 ## Changelogs: 
 
-- [Raspberry Pi changelog](https://archphile.org/changelog/rpi.txt)
+- [Raspberry Pi changelog](https://archphile.org/changelog/rpi23.txt)
 - [Odroid C2 changelog](https://archphile.org/changelog/odroidc2.txt)
 
 ## Release updates
 If there are any updates on packages/configuration that can be applied on these new images, all the relevant instructions will be given through the following links:
 
-- [updates for the RPI](https://archphile.org/changelog/updates-rpi.txt)
+- [updates for the RPI](https://archphile.org/changelog/updates-rpi23.txt)
 - [updates for the Odroid C2](https://archphile.org/changelog/updates-odroidc2.txt)
 
 

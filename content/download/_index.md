@@ -28,9 +28,9 @@ The latest version is **1.19 beta** - codename Corona (17/04/2020) for the Raspb
 
 - [latest image for the Raspberry Pi 2/3/3B/3B+](https://sourceforge.net/projects/archphile/files/rpi3/1.19-beta-corona/archphile-1.19-beta-corona-rpi23.7z/download) 
 
-- [changelog](https://archphile.org/changelog/rpi.txt) 
+- [changelog](https://archphile.org/changelog/rpi23.txt) 
 
-- [updates](https://archphile.org/changelog/updates-rpi.txt)
+- [updates](https://archphile.org/changelog/updates-rpi23.txt)
 
 ### md5sums
 

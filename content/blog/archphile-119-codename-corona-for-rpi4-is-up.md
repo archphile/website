@@ -4,7 +4,8 @@ date = 2020-04-17
 tags =  ["archphile"]
 +++
 
-Thanks to the kind donations of Darius, Vangelis, Angelos and Michael, I was able to buy a Raspberry Pi 4 and prepare an **aarch64** (thanks to [Moonman's](https://github.com/moonman) rootfs and packages) image for that: 
+Thanks to the kind donations by **Darius**, **Vangelis**, **Angelos** and **Michael**, I was able to buy a Raspberry Pi 4 and prepare an **aarch64** (using [Moonman's](https://github.com/moonman) [rootfs and packages](https://olegtown.pw/Public/ArchLinuxArm/RPi4/)) image.
+ 
 
 ## Downloads
 
