@@ -13,7 +13,7 @@ Archphile is an [ArchlinuxARM](https://archlinuxarm.org/) based distribution for
 - UPNP/DLNA support using [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/)
 - spotify support using [librespot](https://github.com/librespot-org)
 - tidal support using [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/) 
-- squeezelite support
+- [squeezelite](https://github.com/ralph-irving/squeezelite) support
 - airplay support using [shairport-sync](https://github.com/mikebrady/shairport-sync) 
 - usb disk automounting using [udevil](https://ignorantguru.github.io/udevil/)
 - samba/cifs/nfs support
@@ -31,7 +31,7 @@ Below you will find screenshots of the latest MPD client used on Archphile, name
 - https://archlinuxarm.org
 - https://www.musicpd.org
 - https://www.ympd.org
-- https://jcorporation.github.io/myMPD/
+- https://jcorporation.github.io/myMPD
 - https://volumio.org
 - http://www.runeaudio.com
 - http://www.raspyfi.com

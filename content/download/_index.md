@@ -12,7 +12,7 @@ The latest version is **1.19 beta** - codename Corona (17/04/2020) for the Raspb
 
 ## Raspberry Pi 4 (aarch64 image)
 
-- [latest image for the Raspberry Pi 4](https://sourceforge.net/projects/archphile/files/rpi4/1.19-beta-corona/archphile-1.19-beta-corona-rpi4.7z/download) 
+- [download 1.19 beta for the Raspberry Pi 4](https://sourceforge.net/projects/archphile/files/rpi4/1.19-beta-corona/archphile-1.19-beta-corona-rpi4.7z/download) 
 
 - [changelog](https://archphile.org/changelog/rpi4.txt) 
 
@@ -20,13 +20,12 @@ The latest version is **1.19 beta** - codename Corona (17/04/2020) for the Raspb
 
 ### md5sums
 
-**.7z:** 
-1d24ad4ef97c5c288fbc807663fb7a19  
+**.7z:**  1d24ad4ef97c5c288fbc807663fb7a19  
 **.img:** 84c4dde1ae59a38847eb661d49c092e0
 
 ## Raspberry Pi 2/3
 
-- [latest image for the Raspberry Pi 2/3/3B/3B+](https://sourceforge.net/projects/archphile/files/rpi3/1.19-beta-corona/archphile-1.19-beta-corona-rpi23.7z/download) 
+- [download 1.19 beta for the Raspberry Pi 2/3/3B/3B+](https://sourceforge.net/projects/archphile/files/rpi3/1.19-beta-corona/archphile-1.19-beta-corona-rpi23.7z/download) 
 
 - [changelog](https://archphile.org/changelog/rpi23.txt) 
 
@@ -40,7 +39,7 @@ The latest version is **1.19 beta** - codename Corona (17/04/2020) for the Raspb
 
 ## Odroid C2
 
-- [latest image for the Odroid C2](https://sourceforge.net/projects/archphile/files/odroidc2/1.19-beta-corona/archphile-1.19-beta-corona-odroidc2.7z/download) 
+- [download 1.19 beta for the Odroid C2](https://sourceforge.net/projects/archphile/files/odroidc2/1.19-beta-corona/archphile-1.19-beta-corona-odroidc2.7z/download) 
 
 - [changelog](https://archphile.org/changelog/odroidc2.txt)
 
