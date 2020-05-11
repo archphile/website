@@ -9,7 +9,7 @@ Since the beginning of this project, I tried to provide as much as information I
 
 That was not enough and this is why since May 2018 I introduced the Archphile manual:
 
-- [Archphile manual v.0.13.5 (19/04/2020)](https://archphile.org/manual/archphile-manual.pdf) 
+- [Archphile manual v.0.13.6 (2020-05-11)](https://archphile.org/manual/archphile-manual.pdf) 
 
 This document is still under development, but it currently includes almost everything you need in order to configure and use Archphile.
 
